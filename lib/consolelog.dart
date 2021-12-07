@@ -3,8 +3,6 @@
 /// More dartdocs go here.
 library consolelog;
 
-export 'src/consolelog_base.dart';
-
 import 'dart:developer' as developer;
 
 // ignore: camel_case_types
